@@ -7,4 +7,3 @@
   - Achieved *93.37%* accuracy and *0.83* ROC AUC score on test data
   - Plotted ROC-AUC curve to evaluate classifier performance
   - Improved decision-making efficiency for launching a new Wellness Tourism Package
-This project demonstrates proficiency in Python, pandas, scikit-learn, data visualization, and model evaluation techniques.
