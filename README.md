@@ -7,14 +7,14 @@ The model helps the company reduce acquisition cost by identifying high-probabil
 ---
 ## How to Clone and Run
 *Clone the repository:*
-
-```bash
+<pre><code>
 git clone https://github.com/manteshswami/Holiday_Package_Prediction.git
 cd Holiday_Package_Prediction
+</pre></code>
 ---
 
 ## Project Structure
-
+<pre>
 Holiday_Package_Prediction/
 │
 ├── holiday_package_prediction.py
@@ -23,7 +23,7 @@ Holiday_Package_Prediction/
 ├── holiday_package_model.pkl
 ├── preprocessor.pkl
 ├── README.md
-
+</pre>
 ---
 ## Business Objective
 
@@ -98,3 +98,4 @@ All evaluation metrics are printed when running the training script.
 After training, the following files are generated:
 - holiday_package_model.pkl
 - preprocessor.pkl
+
